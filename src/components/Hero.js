@@ -27,7 +27,7 @@ const [text, count] = useTypewriter({
     <div className='container mx-auto grid md:grid-cols-2 items-center justify-center md:justify-between'>
 
    <div className='hero-info pb-5 md:pb-0'>
-    <h1 className='text-4xl lg:text-8xl'>
+    <h1 className='text-5xl lg:text-7xl'>
         Hi! <br />
         I'm Luke, <br />
         <span>{text}</span>
