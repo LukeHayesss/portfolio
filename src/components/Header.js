@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai';
-import Webby from '../assets/web logo (2).png';
+import Webby from '../assets/web logo (3).png';
 import styled from 'styled-components';
 import { BrowserRouter, NavLink } from "react-router-dom";
 
