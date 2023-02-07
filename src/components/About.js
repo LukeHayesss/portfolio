@@ -13,10 +13,10 @@ const About = () => {
           <p className='pb-5 text-2xl'>
           Hard-working web developer with a flair for creating elegant solutions in the 
           most efficient way possible. Most recent position is with a fast-moving weather forecasting 
-          startup, where I've been leading app development and spearheading the development + design of
-          a React.js and Python application. As an experienced freelancer, I've built a health and 
-          wellness recipe app,  a food and drink e-commerce site, a ride-share mobile app, and more. 
-          Passionate about UX design, and staying on top of the latest tech trends.
+          startup, where I've been leading app development of an application that documents weather 
+          events globally. As an experienced freelancer, I've built a health and wellness recipe app, 
+          a food and drink e-commerce site, a ride-share mobile app, and more. Passionate about UX design, 
+          and staying on top of the latest tech trends.
           </p>
           <p className='pb-5 text-2xl'>
             Experienced with numerous technologies and languages, including Javascript, React.js, Next.js,
@@ -26,7 +26,7 @@ const About = () => {
          </div>
       
          <div className='about-img'>
-          <img src={AboutImg2} alt="bio image" className='w-[80%] md:ml-auto mr-2'/>
+          <img src={AboutImg2} alt="bio image" className='w-[80%] md:ml-auto mr-3'/>
          </div>
          </div>
         </section>

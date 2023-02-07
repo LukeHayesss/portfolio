@@ -20,7 +20,7 @@ const Education = () => {
          </div>
       
          <div className='edu-img'>
-          <img src={Edu} alt="edu image" className='w-[80%] md:ml-auto'/>
+          <img src={Edu} alt="edu image" className='w-[80%] md:ml-auto mr-3'/>
          </div>
          </div>
         </section>
