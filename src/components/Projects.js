@@ -20,7 +20,7 @@ const Projects = () => {
          img: foodzy,
          title: 'foodzy',
          desc: 'App where you can filter through recipes depending on diet preference (such as vegan, gluten free), or health conditions (such as diabetes, or heart-health). Built with React.js, NodeJS, SCSS, Framer Motion, the Spoonacular API, React Icons, Firebase, and more.',
-         live: 'https://www.apple.com',
+         live: '',
          code: 'https://github.com/LukeHayesss/final-project-foodzy'
       },
       {
@@ -34,21 +34,21 @@ const Projects = () => {
          img: uber,
          title: 'uber',
          desc: 'Uber clone built using React Native, Redux, Tailwind CSS and Google Navigation API. Updates distance, travel time, and cost to travel, for three seperate tiers of Uber pricing.',
-         live: 'https://www.apple.com',
+         live: '',
          code: 'https://github.com/LukeHayesss/uber'
       },
       {
          img: insta,
          title: 'insta',
          desc: 'A fully-functioning Instagram clone built using Next.js. Upload photos, add captions, like + unlike posts, and store all of the post data and comment/liking/unliking data in the Firebase Database. Styled with Tailwind CSS, user authorization done via NextAuth.',
-         live: 'https://www.apple.com',
+         live: '',
          code: 'https://github.com/LukeHayesss/instagram-clone'
       },
       {
          img: spotify,
          title: 'spotify',
          desc: 'Spotify recreation using Next.js, React.js, NextAuth, Spotify API, and Recoil.',
-         live: 'https://www.apple.com',
+         live: '',
          code: 'https://github.com/LukeHayesss/spotify'
       },
    ]
