@@ -26,7 +26,7 @@ const About = () => {
          </div>
       
          <div className='about-img'>
-          <img src={AboutImg2} alt="bio image" className='w-[80%] md:ml-auto sm:content-center'/>
+          <img src={AboutImg2} alt="bio image" className='w-[80%] md:ml-auto mr-1'/>
          </div>
          </div>
         </section>
