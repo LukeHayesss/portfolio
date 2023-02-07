@@ -6,7 +6,7 @@ const Contact = () => {
   return (
     <section className='bg-primary pt-32 pb-10 pr-50' id='contact'>
     <div className='text-center md:w-[60%] mx-auto text-white'>
-      <h1 className='text-6xl sm:text-sm font-bold mb-5 border-b-[5px] w-[550px] mx-auto border-[#007AFC] pb-2'>
+      <h1 className='text-6xl font-bold mb-5 border-b-[5px] w-[550px] mx-auto border-[#007AFC] pb-2'>
         Ready to get started?
     </h1>
     <section className='pt-5'>
