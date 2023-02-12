@@ -33,7 +33,7 @@ const Projects = () => {
       {
          img: uber,
          title: 'uber',
-         desc: 'Uber clone built using React Native, Redux, Tailwind CSS and Google Navigation API. Updates distance, travel time, and cost to travel, for three seperate tiers of Uber pricing.',
+         desc: 'Uber clone built using React Native, Redux, Tailwind CSS and Google Navigation API. Updates distance, travel time, and cost to travel, for three separate tiers of Uber pricing.',
          live: '',
          code: 'https://github.com/LukeHayesss/uber'
       },

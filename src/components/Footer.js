@@ -11,7 +11,7 @@ const Footer = () => {
     <>
     <div className='flex justify-between py-5 text-center bg-secondary text-gray-400 text-xl border-t-[1px] border-gray-700' id='footie'>
         <div className='px-4 pt-3'>
-          All Rights Reserved &copy; LukeTech
+          All Rights Reserved &copy; LukeTech | Designed + Built by Me!
         </div>
       <div className=''>
     <a href="https://www.github.com/lukehayesss"
