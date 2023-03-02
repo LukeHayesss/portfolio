@@ -11,7 +11,7 @@ const About = () => {
               About Me
               </h2>
           <p className='pb-5 text-2xl'>
-          Hard-working web developer with a flair for creating elegant solutions in the 
+          Experienced web developer with a flair for creating elegant solutions in the 
           most efficient way possible. Most recent position is with a fast-moving weather forecasting 
           startup, where I've been leading app development of an application that documents weather 
           events globally. As an experienced freelancer, I've built a health and wellness recipe app, 

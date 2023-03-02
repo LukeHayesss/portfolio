@@ -5,6 +5,7 @@ import jaka from '../assets/jakabek-homey.png';
 import uber from '../assets/uber-img.png';
 import insta from '../assets/insta-img.png';
 import spotify from '../assets/spotify-img.png';
+import ubereats from '../assets/ubereats-img.png'
 
 
 const Projects = () => {
@@ -50,6 +51,13 @@ const Projects = () => {
          desc: 'Spotify recreation using Next.js, React.js, NextAuth, Spotify API, and Recoil.',
          live: '',
          code: 'https://github.com/LukeHayesss/spotify'
+      },
+      {
+         img: ubereats,
+         title: 'uber eats',
+         desc: 'Ubereats recreation using React Native, Redux, Google Maps API, Firebase, and Stripe Payments.',
+         live: '',
+         code: 'https://github.com/LukeHayesss/ubereats'
       },
    ]
    return (
