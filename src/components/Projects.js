@@ -57,7 +57,7 @@ const Projects = () => {
          title: 'uber eats',
          desc: 'Ubereats recreation using React Native, Redux, Google Maps API, Firebase, and Stripe Payments.',
          live: '',
-         code: 'https://github.com/LukeHayesss/ubereats'
+         code: 'https://github.com/LukeHayesss/ubereats-2'
       },
    ]
    return (
