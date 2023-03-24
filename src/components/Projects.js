@@ -5,7 +5,8 @@ import jaka from '../assets/jakabek-homey.png';
 import uber from '../assets/uber-img.png';
 import insta from '../assets/insta-img.png';
 import spotify from '../assets/spotify-img.png';
-import ubereats from '../assets/ubereats-img.png'
+import ubereats from '../assets/ubereats-img.png';
+import foodly from '../assets/foodly-screen.png';
 
 
 const Projects = () => {
@@ -18,12 +19,12 @@ const Projects = () => {
          code: 'https://github.com/LukeHayesss/extremes-build'
       },
       {
-         img: foodzy,
-         title: 'foodzy',
-         desc: 'App where you can filter through recipes depending on diet preference (such as vegan, gluten free), or health conditions (such as diabetes, or heart-health). Built with React.js, NodeJS, SCSS, Framer Motion, the Spoonacular API, React Icons, Firebase, and more.',
-         live: '',
-         code: 'https://github.com/LukeHayesss/final-project-foodzy'
-      },
+        img: foodly,
+        title: 'uber eats',
+        desc: 'Ubereats recreation built with React Native, Redux, Google Maps API, Firebase, and Stripe Payments.',
+        live: 'https://www.behance.net/gallery/166631257/Foodly',
+        code: 'https://github.com/LukeHayesss/ubereats-2'
+     },
       {
          img: jaka,
          title: 'jakabek',
@@ -31,6 +32,13 @@ const Projects = () => {
          live: 'https://jakabeklaw.com/',
          code: ''
       },
+      {
+        img: foodzy,
+        title: 'foodzy',
+        desc: 'App where you can filter through recipes depending on diet preference (such as vegan, gluten free), or health conditions (such as diabetes, or heart-health). Built with React.js, NodeJS, SCSS, Framer Motion, the Spoonacular API, React Icons, Firebase, and more.',
+        live: '',
+        code: 'https://github.com/LukeHayesss/final-project-foodzy'
+     },
       {
          img: uber,
          title: 'uber',
@@ -51,13 +59,6 @@ const Projects = () => {
          desc: 'Spotify recreation using Next.js, React.js, NextAuth, Spotify API, and Recoil.',
          live: '',
          code: 'https://github.com/LukeHayesss/spotify'
-      },
-      {
-         img: ubereats,
-         title: 'uber eats',
-         desc: 'Ubereats recreation using React Native, Redux, Google Maps API, Firebase, and Stripe Payments.',
-         live: '',
-         code: 'https://github.com/LukeHayesss/ubereats-2'
       },
    ]
    return (

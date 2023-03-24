@@ -13,10 +13,10 @@ const Hero = () => {
   
 const [text, count] = useTypewriter({
     words: [
+      'UX/UI designer',
+      'app builder', 
       'full stack web dev', 
       'frontend expert',
-      'app builder', 
-      'UX/UI designer',
     ],
     loop: true,
     delaySpeed: 2000,
@@ -33,7 +33,7 @@ const [text, count] = useTypewriter({
         <span>{text}</span>
         <Cursor cursorColor='#ffffff' cursorBlinking='true'/>
     </h1>
-    <p className='py-5 text-3xl text-gray-400'>full stack web developer with years of experience</p>
+    <p className='py-5 text-3xl text-gray-400'>UX designer & web developer with years of experience</p>
 
       
     <div className='flex py-5'>
