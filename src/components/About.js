@@ -18,9 +18,9 @@ const About = () => {
           and staying on top of the latest tech trends.
           </p>
           <p className='pb-5 text-2xl'>
-            Experienced with numerous technologies and languages, including UX/UI Design, Figma, Javascript, 
-            React.js, Next.js, Node.js, HTML, CSS, Tailwind, Styled Components, React Router, Firebase, MongoDB, 
-            and more. Knowledgeable about Agile and Scrum methods.
+            <b>Design Thinking certified</b>, and experienced with numerous technologies and languages, including UX/UI Design, 
+            Figma, Javascript, React.js, Next.js, Node.js, HTML, CSS, Tailwind, Styled Components, React Router, Firebase, MongoDB, 
+            and more. Knowledgeable about Agile and Scrum methods. 
           </p>
 
          </div>
