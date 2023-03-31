@@ -7,15 +7,16 @@ import insta from '../assets/insta-img.png';
 import spotify from '../assets/spotify-img.png';
 import ubereats from '../assets/ubereats-img.png';
 import foodly from '../assets/foodly-screen.png';
+import curr2 from '../assets/curr-img2.png';
 
 
 const Projects = () => {
    const projects = [
       {
-         img: currently,
+         img: curr2,
          title: 'currently',
          desc: 'Map application built for a US startup. Tracks extreme weather events around the world; built with React.js, Leaflet.js, D3.js, AWS, Styled-Components, and Python. Responsible for the overall build + design.',
-         live: 'https://ambitious-tree-0fbea500f.2.azurestaticapps.net/',
+         live: '',
          code: 'https://github.com/LukeHayesss/extremes-build'
       },
       {
