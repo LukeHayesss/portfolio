@@ -8,6 +8,7 @@ import spotify from '../assets/spotify-img.png';
 import ubereats from '../assets/ubereats-img.png';
 import foodly from '../assets/foodly-screen.png';
 import curr2 from '../assets/curr-img2.png';
+import ka from '../assets/ka-ux.png';
 
 
 const Projects = () => {
@@ -25,6 +26,13 @@ const Projects = () => {
         desc: 'Ubereats recreation built with React Native, Redux, Google Maps API, Firebase, and Stripe Payments.',
         live: 'https://www.behance.net/gallery/166631257/Foodly',
         code: 'https://github.com/LukeHayesss/ubereats-2'
+     },
+     {
+      img: ka,
+      title: 'ka-ux',
+      desc: 'Case study on the UX Design & Web Development process I utilized for a leading non-alcoholic spirit company',
+      live: 'https://www.kickass89.com/',
+      code: 'https://www.behance.net/gallery/168477081/Non-Alcoholic-Spirit-UX-Design'
      },
       {
          img: jaka,
