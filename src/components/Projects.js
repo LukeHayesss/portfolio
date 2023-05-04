@@ -17,7 +17,7 @@ const Projects = () => {
          img: curr2,
          title: 'currently',
          desc: 'Map application built for a US startup. Tracks extreme weather events around the world; built with React.js, Leaflet.js, D3.js, AWS, Styled-Components, and Python. Responsible for the overall build + design.',
-         live: '',
+         live: 'https://www.currentlyhq.com',
          code: 'https://github.com/LukeHayesss/extremes-build'
       },
       {
